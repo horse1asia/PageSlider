@@ -1,8 +1,17 @@
 <<<<<<< HEAD
-This is just a quick Bootstrap starter kit for kicking starting a front-end web development project.
-Version: 3.3.0
+Page Slider - prototype 
 =======
 
+Page slider UI: 
+-User can page through events or content by clicking Next and Previous buttons on the bottom.
+-Used for client project
 
-You can download everything here and set it all up manually:
+Requires: 
+jQuery
+
+Flip js by nnattawat
+http://nnattawat.github.io/flip/
+https://github.com/nnattawat/flip
+
+Bootstrap framework - used just to setup the front-end development for building my prototype.
 http://getbootstrap.com/
